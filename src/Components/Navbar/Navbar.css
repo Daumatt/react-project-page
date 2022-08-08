@@ -1,0 +1,26 @@
+.best{
+    /* background-color: rebeccapurple; */
+    
+}  
+
+.bk{
+    display: flex;
+    list-style: none;
+    justify-content: flex-start;
+    margin-right: 25px;
+    padding: 30px;
+}
+.snp{
+    margin-right: 20px;
+}
+.bk, li{
+   display: flex;
+   justify-content: space-between;
+   width: 80%;
+   margin-left: auto;
+   margin-right: auto;
+}
+.snp{
+    font-size: 2.0rem;
+
+}
